@@ -7,6 +7,8 @@ image:
   background: triangular.png
 ---
 
+Tim is adding stuff to the top of this post!
+
 Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
 
 {% highlight yaml %}
